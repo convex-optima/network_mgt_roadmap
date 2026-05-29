@@ -27,7 +27,7 @@ Recently, Network Management Team received the request to build some dashboards 
 
 Current basic data in each Dashboard
 
-| Warehouse capacity  By datetime, by WH: Warehouse Total capacity (CBM / qty) Used capacity Utilization % Inbound planned next 7 days Outbound planned next 7 days Storage type / size profile | Inventory Storage By SKU-WH: Available stock on-hand Inbound ETA Outbound forecast / sales forecast Days of cover (DoC) Safety stock by DoC Last-14/30 days sales rate |
+| Warehouse capacity  By datetime, by WH: - Warehouse Total capacity (CBM / qty) \\ Used capacity Utilization % Inbound planned next 7 days Outbound planned next 7 days Storage type / size profile | Inventory Storage By SKU-WH: Available stock on-hand Inbound ETA Outbound forecast / sales forecast Days of cover (DoC) Safety stock by DoC Last-14/30 days sales rate |
 | :---- | :---- |
 | **Stock Transfer plan (by Inventory Allocation Model)** Source WH Destination WH Transfer lead time Transfer qty by SKU Move-transfer capacity | **Cross-order performance** Cross-order rate Units fulfilled by cross-WH and by best-WH Low stock incidence Late/or low inbound qty Late/or low move-transfer qty |
 
