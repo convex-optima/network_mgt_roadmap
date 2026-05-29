@@ -81,7 +81,7 @@ At SKU–Warehouse level:
 All missing SKU in master-sku is noncore and Fashion (L/XL size).
 
 ***
-## Dashboard Views
+## Recommended Dashboard Views
 
 ### 1. Summary View
 
