@@ -14,7 +14,7 @@ Candidates are allowed to use AI tools to support their work. However, during th
 - Presentation and critical thinking: 20 points. Be prepared to present your approach during the interview. There is no need for a fancy PPT, just organize your thoughts in a spreadsheet or any format of your choice.
 
 ## Submission Instructions ✅
-Please submit your work by email your exercise to PIC HR.
+Please submit your work by email to PIC HR.
 
 ## Folder Structure
 
